@@ -78,12 +78,12 @@ HTML files found: 37
 FILE:
 Ark Afrikaans/Veilocity - Text Channels - afrikaans [1469246579759386728].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Afrikaans/Veilocity%20-%20Text%20Channels%20-%20afrikaans%20%5B1469246579759386728%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Afrikaans/Veilocity%20-%20Text%20Channels%20-%20afrikaans%20%5B1469246579759386728%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Afrikaans/Veilocity%20-%20Text%20Channels%20-%20afrikaans%20%5B1469246579759386728%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Afrikaans/Veilocity%20-%20Text%20Channels%20-%20afrikaans%20%5B1469246579759386728%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Afrikaans/Veilocity%20-%20Text%20Channels%20-%20afrikaans%20%5B1469246579759386728%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Afrikaans/Veilocity%20-%20Text%20Channels%20-%20afrikaans%20%5B1469246579759386728%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -92,12 +92,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Afrikaans/Veilocity%20-%
 FILE:
 Ark Albania/Veilocity - Text Channels - albania [1468687486141206780].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Albania/Veilocity%20-%20Text%20Channels%20-%20albania%20%5B1468687486141206780%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Albania/Veilocity%20-%20Text%20Channels%20-%20albania%20%5B1468687486141206780%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Albania/Veilocity%20-%20Text%20Channels%20-%20albania%20%5B1468687486141206780%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Albania/Veilocity%20-%20Text%20Channels%20-%20albania%20%5B1468687486141206780%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Albania/Veilocity%20-%20Text%20Channels%20-%20albania%20%5B1468687486141206780%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Albania/Veilocity%20-%20Text%20Channels%20-%20albania%20%5B1468687486141206780%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -106,12 +106,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Albania/Veilocity%20-%20
 FILE:
 Ark Arabic/Veilocity - Text Channels - arabic [1468664664379363542].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Arabic/Veilocity%20-%20Text%20Channels%20-%20arabic%20%5B1468664664379363542%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Arabic/Veilocity%20-%20Text%20Channels%20-%20arabic%20%5B1468664664379363542%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Arabic/Veilocity%20-%20Text%20Channels%20-%20arabic%20%5B1468664664379363542%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Arabic/Veilocity%20-%20Text%20Channels%20-%20arabic%20%5B1468664664379363542%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Arabic/Veilocity%20-%20Text%20Channels%20-%20arabic%20%5B1468664664379363542%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Arabic/Veilocity%20-%20Text%20Channels%20-%20arabic%20%5B1468664664379363542%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -120,12 +120,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Arabic/Veilocity%20-%20T
 FILE:
 Ark Bosnia/Veilocity - Text Channels - bosnia [1468688037440393418].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Bosnia/Veilocity%20-%20Text%20Channels%20-%20bosnia%20%5B1468688037440393418%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Bosnia/Veilocity%20-%20Text%20Channels%20-%20bosnia%20%5B1468688037440393418%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Bosnia/Veilocity%20-%20Text%20Channels%20-%20bosnia%20%5B1468688037440393418%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Bosnia/Veilocity%20-%20Text%20Channels%20-%20bosnia%20%5B1468688037440393418%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Bosnia/Veilocity%20-%20Text%20Channels%20-%20bosnia%20%5B1468688037440393418%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Bosnia/Veilocity%20-%20Text%20Channels%20-%20bosnia%20%5B1468688037440393418%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -134,12 +134,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Bosnia/Veilocity%20-%20T
 FILE:
 Ark Bulgaria/Veilocity - Text Channels - bulgaria [1468668506760413316].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Bulgaria/Veilocity%20-%20Text%20Channels%20-%20bulgaria%20%5B1468668506760413316%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Bulgaria/Veilocity%20-%20Text%20Channels%20-%20bulgaria%20%5B1468668506760413316%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Bulgaria/Veilocity%20-%20Text%20Channels%20-%20bulgaria%20%5B1468668506760413316%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Bulgaria/Veilocity%20-%20Text%20Channels%20-%20bulgaria%20%5B1468668506760413316%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Bulgaria/Veilocity%20-%20Text%20Channels%20-%20bulgaria%20%5B1468668506760413316%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Bulgaria/Veilocity%20-%20Text%20Channels%20-%20bulgaria%20%5B1468668506760413316%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -148,12 +148,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Bulgaria/Veilocity%20-%2
 FILE:
 Ark Cantonese/Veilocity - Text Channels - cantonese [1468670598149443873].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Cantonese/Veilocity%20-%20Text%20Channels%20-%20cantonese%20%5B1468670598149443873%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Cantonese/Veilocity%20-%20Text%20Channels%20-%20cantonese%20%5B1468670598149443873%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Cantonese/Veilocity%20-%20Text%20Channels%20-%20cantonese%20%5B1468670598149443873%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Cantonese/Veilocity%20-%20Text%20Channels%20-%20cantonese%20%5B1468670598149443873%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Cantonese/Veilocity%20-%20Text%20Channels%20-%20cantonese%20%5B1468670598149443873%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Cantonese/Veilocity%20-%20Text%20Channels%20-%20cantonese%20%5B1468670598149443873%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -162,12 +162,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Cantonese/Veilocity%20-%
 FILE:
 court-of-illusions-trafficking/Veilocity - Text Channels - court-of-illusions-trafficking [1466356241738760202].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/court-of-illusions-trafficking/Veilocity%20-%20Text%20Channels%20-%20court-of-illusions-trafficking%20%5B1466356241738760202%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/court-of-illusions-trafficking/Veilocity%20-%20Text%20Channels%20-%20court-of-illusions-trafficking%20%5B1466356241738760202%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/court-of-illusions-trafficking/Veilocity%20-%20Text%20Channels%20-%20court-of-illusions-trafficking%20%5B1466356241738760202%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/court-of-illusions-trafficking/Veilocity%20-%20Text%20Channels%20-%20court-of-illusions-trafficking%20%5B1466356241738760202%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/court-of-illusions-trafficking/Veilocity%20-%20Text%20Channels%20-%20court-of-illusions-trafficking%20%5B1466356241738760202%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/court-of-illusions-trafficking/Veilocity%20-%20Text%20Channels%20-%20court-of-illusions-trafficking%20%5B1466356241738760202%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -176,12 +176,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/court-of-illusions-trafficking
 FILE:
 Ark Czech Republic/Veilocity - Text Channels - czech-republic [1469311453982097548].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Czech%20Republic/Veilocity%20-%20Text%20Channels%20-%20czech-republic%20%5B1469311453982097548%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Czech%20Republic/Veilocity%20-%20Text%20Channels%20-%20czech-republic%20%5B1469311453982097548%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Czech%20Republic/Veilocity%20-%20Text%20Channels%20-%20czech-republic%20%5B1469311453982097548%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Czech%20Republic/Veilocity%20-%20Text%20Channels%20-%20czech-republic%20%5B1469311453982097548%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Czech%20Republic/Veilocity%20-%20Text%20Channels%20-%20czech-republic%20%5B1469311453982097548%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Czech%20Republic/Veilocity%20-%20Text%20Channels%20-%20czech-republic%20%5B1469311453982097548%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -190,12 +190,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Czech%20Republic/Veiloci
 FILE:
 Ark Danish/Veilocity - Text Channels - danish [1469299369172930602].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Danish/Veilocity%20-%20Text%20Channels%20-%20danish%20%5B1469299369172930602%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Danish/Veilocity%20-%20Text%20Channels%20-%20danish%20%5B1469299369172930602%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Danish/Veilocity%20-%20Text%20Channels%20-%20danish%20%5B1469299369172930602%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Danish/Veilocity%20-%20Text%20Channels%20-%20danish%20%5B1469299369172930602%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Danish/Veilocity%20-%20Text%20Channels%20-%20danish%20%5B1469299369172930602%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Danish/Veilocity%20-%20Text%20Channels%20-%20danish%20%5B1469299369172930602%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -204,12 +204,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Danish/Veilocity%20-%20T
 FILE:
 Ark Dutch/Veilocity - Text Channels - dutch [1468699673912021187].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Dutch/Veilocity%20-%20Text%20Channels%20-%20dutch%20%5B1468699673912021187%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Dutch/Veilocity%20-%20Text%20Channels%20-%20dutch%20%5B1468699673912021187%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Dutch/Veilocity%20-%20Text%20Channels%20-%20dutch%20%5B1468699673912021187%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Dutch/Veilocity%20-%20Text%20Channels%20-%20dutch%20%5B1468699673912021187%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Dutch/Veilocity%20-%20Text%20Channels%20-%20dutch%20%5B1468699673912021187%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Dutch/Veilocity%20-%20Text%20Channels%20-%20dutch%20%5B1468699673912021187%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -218,12 +218,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Dutch/Veilocity%20-%20Te
 FILE:
 Ark English/Veilocity - Text Channels - english [1468663904052973860].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20English/Veilocity%20-%20Text%20Channels%20-%20english%20%5B1468663904052973860%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20English/Veilocity%20-%20Text%20Channels%20-%20english%20%5B1468663904052973860%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20English/Veilocity%20-%20Text%20Channels%20-%20english%20%5B1468663904052973860%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20English/Veilocity%20-%20Text%20Channels%20-%20english%20%5B1468663904052973860%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20English/Veilocity%20-%20Text%20Channels%20-%20english%20%5B1468663904052973860%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20English/Veilocity%20-%20Text%20Channels%20-%20english%20%5B1468663904052973860%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -232,12 +232,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20English/Veilocity%20-%20
 FILE:
 Ark French/Veilocity - Text Channels - french [1468673011505959015].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20French/Veilocity%20-%20Text%20Channels%20-%20french%20%5B1468673011505959015%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20French/Veilocity%20-%20Text%20Channels%20-%20french%20%5B1468673011505959015%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20French/Veilocity%20-%20Text%20Channels%20-%20french%20%5B1468673011505959015%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20French/Veilocity%20-%20Text%20Channels%20-%20french%20%5B1468673011505959015%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20French/Veilocity%20-%20Text%20Channels%20-%20french%20%5B1468673011505959015%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20French/Veilocity%20-%20Text%20Channels%20-%20french%20%5B1468673011505959015%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -246,12 +246,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20French/Veilocity%20-%20T
 FILE:
 Ark Georgia/Veilocity - Text Channels - georgian [1468673458941722747].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Georgia/Veilocity%20-%20Text%20Channels%20-%20georgian%20%5B1468673458941722747%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Georgia/Veilocity%20-%20Text%20Channels%20-%20georgian%20%5B1468673458941722747%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Georgia/Veilocity%20-%20Text%20Channels%20-%20georgian%20%5B1468673458941722747%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Georgia/Veilocity%20-%20Text%20Channels%20-%20georgian%20%5B1468673458941722747%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Georgia/Veilocity%20-%20Text%20Channels%20-%20georgian%20%5B1468673458941722747%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Georgia/Veilocity%20-%20Text%20Channels%20-%20georgian%20%5B1468673458941722747%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -260,12 +260,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Georgia/Veilocity%20-%20
 FILE:
 Ark German/Veilocity - Text Channels - german [1468674062040699067].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20German/Veilocity%20-%20Text%20Channels%20-%20german%20%5B1468674062040699067%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20German/Veilocity%20-%20Text%20Channels%20-%20german%20%5B1468674062040699067%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20German/Veilocity%20-%20Text%20Channels%20-%20german%20%5B1468674062040699067%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20German/Veilocity%20-%20Text%20Channels%20-%20german%20%5B1468674062040699067%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20German/Veilocity%20-%20Text%20Channels%20-%20german%20%5B1468674062040699067%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20German/Veilocity%20-%20Text%20Channels%20-%20german%20%5B1468674062040699067%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -274,12 +274,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20German/Veilocity%20-%20T
 FILE:
 Ark Greece/Veilocity - Text Channels - greece [1469265580610682900].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Greece/Veilocity%20-%20Text%20Channels%20-%20greece%20%5B1469265580610682900%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Greece/Veilocity%20-%20Text%20Channels%20-%20greece%20%5B1469265580610682900%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Greece/Veilocity%20-%20Text%20Channels%20-%20greece%20%5B1469265580610682900%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Greece/Veilocity%20-%20Text%20Channels%20-%20greece%20%5B1469265580610682900%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Greece/Veilocity%20-%20Text%20Channels%20-%20greece%20%5B1469265580610682900%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Greece/Veilocity%20-%20Text%20Channels%20-%20greece%20%5B1469265580610682900%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -288,12 +288,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Greece/Veilocity%20-%20T
 FILE:
 Ark Hebrew/Veilocity - Text Channels - hebrew [1468674811562561537].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Hebrew/Veilocity%20-%20Text%20Channels%20-%20hebrew%20%5B1468674811562561537%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Hebrew/Veilocity%20-%20Text%20Channels%20-%20hebrew%20%5B1468674811562561537%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Hebrew/Veilocity%20-%20Text%20Channels%20-%20hebrew%20%5B1468674811562561537%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Hebrew/Veilocity%20-%20Text%20Channels%20-%20hebrew%20%5B1468674811562561537%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Hebrew/Veilocity%20-%20Text%20Channels%20-%20hebrew%20%5B1468674811562561537%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Hebrew/Veilocity%20-%20Text%20Channels%20-%20hebrew%20%5B1468674811562561537%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -302,12 +302,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Hebrew/Veilocity%20-%20T
 FILE:
 Ark Hindi/Veilocity - Text Channels - hindi [1468680504793366679].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Hindi/Veilocity%20-%20Text%20Channels%20-%20hindi%20%5B1468680504793366679%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Hindi/Veilocity%20-%20Text%20Channels%20-%20hindi%20%5B1468680504793366679%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Hindi/Veilocity%20-%20Text%20Channels%20-%20hindi%20%5B1468680504793366679%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Hindi/Veilocity%20-%20Text%20Channels%20-%20hindi%20%5B1468680504793366679%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Hindi/Veilocity%20-%20Text%20Channels%20-%20hindi%20%5B1468680504793366679%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Hindi/Veilocity%20-%20Text%20Channels%20-%20hindi%20%5B1468680504793366679%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -316,12 +316,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Hindi/Veilocity%20-%20Te
 FILE:
 Ark Iceland/Veilocity - Text Channels - iceland [1468700560256536607].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Iceland/Veilocity%20-%20Text%20Channels%20-%20iceland%20%5B1468700560256536607%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Iceland/Veilocity%20-%20Text%20Channels%20-%20iceland%20%5B1468700560256536607%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Iceland/Veilocity%20-%20Text%20Channels%20-%20iceland%20%5B1468700560256536607%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Iceland/Veilocity%20-%20Text%20Channels%20-%20iceland%20%5B1468700560256536607%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Iceland/Veilocity%20-%20Text%20Channels%20-%20iceland%20%5B1468700560256536607%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Iceland/Veilocity%20-%20Text%20Channels%20-%20iceland%20%5B1468700560256536607%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -330,12 +330,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Iceland/Veilocity%20-%20
 FILE:
 Ark Indonesian/Veilocity - Text Channels - indonesian [1485163000196366386].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Indonesian/Veilocity%20-%20Text%20Channels%20-%20indonesian%20%5B1485163000196366386%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Indonesian/Veilocity%20-%20Text%20Channels%20-%20indonesian%20%5B1485163000196366386%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Indonesian/Veilocity%20-%20Text%20Channels%20-%20indonesian%20%5B1485163000196366386%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Indonesian/Veilocity%20-%20Text%20Channels%20-%20indonesian%20%5B1485163000196366386%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Indonesian/Veilocity%20-%20Text%20Channels%20-%20indonesian%20%5B1485163000196366386%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Indonesian/Veilocity%20-%20Text%20Channels%20-%20indonesian%20%5B1485163000196366386%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -344,12 +344,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Indonesian/Veilocity%20-
 FILE:
 Ark Iran/Veilocity - Text Channels - iran [1468700828830535815].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Iran/Veilocity%20-%20Text%20Channels%20-%20iran%20%5B1468700828830535815%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Iran/Veilocity%20-%20Text%20Channels%20-%20iran%20%5B1468700828830535815%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Iran/Veilocity%20-%20Text%20Channels%20-%20iran%20%5B1468700828830535815%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Iran/Veilocity%20-%20Text%20Channels%20-%20iran%20%5B1468700828830535815%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Iran/Veilocity%20-%20Text%20Channels%20-%20iran%20%5B1468700828830535815%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Iran/Veilocity%20-%20Text%20Channels%20-%20iran%20%5B1468700828830535815%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -358,12 +358,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Iran/Veilocity%20-%20Tex
 FILE:
 Ark Italian/Veilocity - Text Channels - italian [1468675616361545950].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Italian/Veilocity%20-%20Text%20Channels%20-%20italian%20%5B1468675616361545950%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Italian/Veilocity%20-%20Text%20Channels%20-%20italian%20%5B1468675616361545950%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Italian/Veilocity%20-%20Text%20Channels%20-%20italian%20%5B1468675616361545950%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Italian/Veilocity%20-%20Text%20Channels%20-%20italian%20%5B1468675616361545950%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Italian/Veilocity%20-%20Text%20Channels%20-%20italian%20%5B1468675616361545950%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Italian/Veilocity%20-%20Text%20Channels%20-%20italian%20%5B1468675616361545950%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -372,12 +372,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Italian/Veilocity%20-%20
 FILE:
 Ark Japan/Veilocity - Text Channels - japan [1468676162820767876].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Japan/Veilocity%20-%20Text%20Channels%20-%20japan%20%5B1468676162820767876%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Japan/Veilocity%20-%20Text%20Channels%20-%20japan%20%5B1468676162820767876%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Japan/Veilocity%20-%20Text%20Channels%20-%20japan%20%5B1468676162820767876%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Japan/Veilocity%20-%20Text%20Channels%20-%20japan%20%5B1468676162820767876%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Japan/Veilocity%20-%20Text%20Channels%20-%20japan%20%5B1468676162820767876%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Japan/Veilocity%20-%20Text%20Channels%20-%20japan%20%5B1468676162820767876%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -386,12 +386,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Japan/Veilocity%20-%20Te
 FILE:
 Ark Korea/Veilocity - Text Channels - korean [1468676714912809011].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Korea/Veilocity%20-%20Text%20Channels%20-%20korean%20%5B1468676714912809011%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Korea/Veilocity%20-%20Text%20Channels%20-%20korean%20%5B1468676714912809011%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Korea/Veilocity%20-%20Text%20Channels%20-%20korean%20%5B1468676714912809011%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Korea/Veilocity%20-%20Text%20Channels%20-%20korean%20%5B1468676714912809011%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Korea/Veilocity%20-%20Text%20Channels%20-%20korean%20%5B1468676714912809011%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Korea/Veilocity%20-%20Text%20Channels%20-%20korean%20%5B1468676714912809011%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -400,12 +400,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Korea/Veilocity%20-%20Te
 FILE:
 Ark Mandarin/Veilocity - Text Channels - mandarin [1468677118471962634].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Mandarin/Veilocity%20-%20Text%20Channels%20-%20mandarin%20%5B1468677118471962634%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Mandarin/Veilocity%20-%20Text%20Channels%20-%20mandarin%20%5B1468677118471962634%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Mandarin/Veilocity%20-%20Text%20Channels%20-%20mandarin%20%5B1468677118471962634%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Mandarin/Veilocity%20-%20Text%20Channels%20-%20mandarin%20%5B1468677118471962634%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Mandarin/Veilocity%20-%20Text%20Channels%20-%20mandarin%20%5B1468677118471962634%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Mandarin/Veilocity%20-%20Text%20Channels%20-%20mandarin%20%5B1468677118471962634%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -414,12 +414,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Mandarin/Veilocity%20-%2
 FILE:
 Ark Norwegian/Veilocity - Text Channels - norwegian [1469306852222435550].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Norwegian/Veilocity%20-%20Text%20Channels%20-%20norwegian%20%5B1469306852222435550%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Norwegian/Veilocity%20-%20Text%20Channels%20-%20norwegian%20%5B1469306852222435550%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Norwegian/Veilocity%20-%20Text%20Channels%20-%20norwegian%20%5B1469306852222435550%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Norwegian/Veilocity%20-%20Text%20Channels%20-%20norwegian%20%5B1469306852222435550%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Norwegian/Veilocity%20-%20Text%20Channels%20-%20norwegian%20%5B1469306852222435550%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Norwegian/Veilocity%20-%20Text%20Channels%20-%20norwegian%20%5B1469306852222435550%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -428,12 +428,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Norwegian/Veilocity%20-%
 FILE:
 Ark Philippines/Veilocity - Text Channels - philippines [1485157310098575411].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Philippines/Veilocity%20-%20Text%20Channels%20-%20philippines%20%5B1485157310098575411%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Philippines/Veilocity%20-%20Text%20Channels%20-%20philippines%20%5B1485157310098575411%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Philippines/Veilocity%20-%20Text%20Channels%20-%20philippines%20%5B1485157310098575411%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Philippines/Veilocity%20-%20Text%20Channels%20-%20philippines%20%5B1485157310098575411%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Philippines/Veilocity%20-%20Text%20Channels%20-%20philippines%20%5B1485157310098575411%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Philippines/Veilocity%20-%20Text%20Channels%20-%20philippines%20%5B1485157310098575411%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -442,12 +442,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Philippines/Veilocity%20
 FILE:
 Ark Polish/Veilocity - Text Channels - poland [1468678367468322880].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Polish/Veilocity%20-%20Text%20Channels%20-%20poland%20%5B1468678367468322880%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Polish/Veilocity%20-%20Text%20Channels%20-%20poland%20%5B1468678367468322880%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Polish/Veilocity%20-%20Text%20Channels%20-%20poland%20%5B1468678367468322880%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Polish/Veilocity%20-%20Text%20Channels%20-%20poland%20%5B1468678367468322880%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Polish/Veilocity%20-%20Text%20Channels%20-%20poland%20%5B1468678367468322880%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Polish/Veilocity%20-%20Text%20Channels%20-%20poland%20%5B1468678367468322880%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -456,12 +456,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Polish/Veilocity%20-%20T
 FILE:
 Ark Portuguese/Veilocity - Text Channels - portuguese [1468680118527459411].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Portuguese/Veilocity%20-%20Text%20Channels%20-%20portuguese%20%5B1468680118527459411%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Portuguese/Veilocity%20-%20Text%20Channels%20-%20portuguese%20%5B1468680118527459411%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Portuguese/Veilocity%20-%20Text%20Channels%20-%20portuguese%20%5B1468680118527459411%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Portuguese/Veilocity%20-%20Text%20Channels%20-%20portuguese%20%5B1468680118527459411%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Portuguese/Veilocity%20-%20Text%20Channels%20-%20portuguese%20%5B1468680118527459411%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Portuguese/Veilocity%20-%20Text%20Channels%20-%20portuguese%20%5B1468680118527459411%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -470,12 +470,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Portuguese/Veilocity%20-
 FILE:
 Ark Russia/Veilocity - Text Channels - russia [1468678809141252171].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Russia/Veilocity%20-%20Text%20Channels%20-%20russia%20%5B1468678809141252171%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Russia/Veilocity%20-%20Text%20Channels%20-%20russia%20%5B1468678809141252171%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Russia/Veilocity%20-%20Text%20Channels%20-%20russia%20%5B1468678809141252171%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Russia/Veilocity%20-%20Text%20Channels%20-%20russia%20%5B1468678809141252171%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Russia/Veilocity%20-%20Text%20Channels%20-%20russia%20%5B1468678809141252171%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Russia/Veilocity%20-%20Text%20Channels%20-%20russia%20%5B1468678809141252171%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -484,12 +484,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Russia/Veilocity%20-%20T
 FILE:
 Ark Spanish/Veilocity - Text Channels - spanish [1468677640213889212].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Spanish/Veilocity%20-%20Text%20Channels%20-%20spanish%20%5B1468677640213889212%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Spanish/Veilocity%20-%20Text%20Channels%20-%20spanish%20%5B1468677640213889212%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Spanish/Veilocity%20-%20Text%20Channels%20-%20spanish%20%5B1468677640213889212%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Spanish/Veilocity%20-%20Text%20Channels%20-%20spanish%20%5B1468677640213889212%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Spanish/Veilocity%20-%20Text%20Channels%20-%20spanish%20%5B1468677640213889212%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Spanish/Veilocity%20-%20Text%20Channels%20-%20spanish%20%5B1468677640213889212%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -498,12 +498,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Spanish/Veilocity%20-%20
 FILE:
 Ark Sweden/Veilocity - Text Channels - sweden [1478353423907684524].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Sweden/Veilocity%20-%20Text%20Channels%20-%20sweden%20%5B1478353423907684524%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Sweden/Veilocity%20-%20Text%20Channels%20-%20sweden%20%5B1478353423907684524%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Sweden/Veilocity%20-%20Text%20Channels%20-%20sweden%20%5B1478353423907684524%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Sweden/Veilocity%20-%20Text%20Channels%20-%20sweden%20%5B1478353423907684524%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Sweden/Veilocity%20-%20Text%20Channels%20-%20sweden%20%5B1478353423907684524%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Sweden/Veilocity%20-%20Text%20Channels%20-%20sweden%20%5B1478353423907684524%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -512,12 +512,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Sweden/Veilocity%20-%20T
 FILE:
 Ark Taiwan/Veilocity - Text Channels - taiwan [1470067960738746539].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Taiwan/Veilocity%20-%20Text%20Channels%20-%20taiwan%20%5B1470067960738746539%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Taiwan/Veilocity%20-%20Text%20Channels%20-%20taiwan%20%5B1470067960738746539%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Taiwan/Veilocity%20-%20Text%20Channels%20-%20taiwan%20%5B1470067960738746539%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Taiwan/Veilocity%20-%20Text%20Channels%20-%20taiwan%20%5B1470067960738746539%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Taiwan/Veilocity%20-%20Text%20Channels%20-%20taiwan%20%5B1470067960738746539%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Taiwan/Veilocity%20-%20Text%20Channels%20-%20taiwan%20%5B1470067960738746539%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -526,12 +526,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Taiwan/Veilocity%20-%20T
 FILE:
 Ark Thailand/Veilocity - Text Channels - thailand [1468693931838541964].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Thailand/Veilocity%20-%20Text%20Channels%20-%20thailand%20%5B1468693931838541964%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Thailand/Veilocity%20-%20Text%20Channels%20-%20thailand%20%5B1468693931838541964%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Thailand/Veilocity%20-%20Text%20Channels%20-%20thailand%20%5B1468693931838541964%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Thailand/Veilocity%20-%20Text%20Channels%20-%20thailand%20%5B1468693931838541964%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Thailand/Veilocity%20-%20Text%20Channels%20-%20thailand%20%5B1468693931838541964%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Thailand/Veilocity%20-%20Text%20Channels%20-%20thailand%20%5B1468693931838541964%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -540,12 +540,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Thailand/Veilocity%20-%2
 FILE:
 Ark Trkiye/Veilocity - Text Channels - trkiye [1468705199261487104].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Trkiye/Veilocity%20-%20Text%20Channels%20-%20trkiye%20%5B1468705199261487104%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Trkiye/Veilocity%20-%20Text%20Channels%20-%20trkiye%20%5B1468705199261487104%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Trkiye/Veilocity%20-%20Text%20Channels%20-%20trkiye%20%5B1468705199261487104%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Trkiye/Veilocity%20-%20Text%20Channels%20-%20trkiye%20%5B1468705199261487104%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Trkiye/Veilocity%20-%20Text%20Channels%20-%20trkiye%20%5B1468705199261487104%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Trkiye/Veilocity%20-%20Text%20Channels%20-%20trkiye%20%5B1468705199261487104%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -554,12 +554,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Trkiye/Veilocity%20-%20T
 FILE:
 Ark Ukraine/Veilocity - Text Channels - ukrainian [1468679264395198760].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Ukraine/Veilocity%20-%20Text%20Channels%20-%20ukrainian%20%5B1468679264395198760%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Ukraine/Veilocity%20-%20Text%20Channels%20-%20ukrainian%20%5B1468679264395198760%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Ukraine/Veilocity%20-%20Text%20Channels%20-%20ukrainian%20%5B1468679264395198760%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Ukraine/Veilocity%20-%20Text%20Channels%20-%20ukrainian%20%5B1468679264395198760%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Ukraine/Veilocity%20-%20Text%20Channels%20-%20ukrainian%20%5B1468679264395198760%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Ukraine/Veilocity%20-%20Text%20Channels%20-%20ukrainian%20%5B1468679264395198760%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -568,12 +568,12 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Ukraine/Veilocity%20-%20
 FILE:
 Ark Vietnam/Veilocity - Text Channels - vietnam [1484976834176225310].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Vietnam/Veilocity%20-%20Text%20Channels%20-%20vietnam%20%5B1484976834176225310%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Vietnam/Veilocity%20-%20Text%20Channels%20-%20vietnam%20%5B1484976834176225310%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Vietnam/Veilocity%20-%20Text%20Channels%20-%20vietnam%20%5B1484976834176225310%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Vietnam/Veilocity%20-%20Text%20Channels%20-%20vietnam%20%5B1484976834176225310%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Vietnam/Veilocity%20-%20Text%20Channels%20-%20vietnam%20%5B1484976834176225310%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Vietnam/Veilocity%20-%20Text%20Channels%20-%20vietnam%20%5B1484976834176225310%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
 
@@ -582,11 +582,11 @@ https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Vietnam/Veilocity%20-%20
 FILE:
 Ark Zulu/Veilocity - Text Channels - zulu [1468679637071695893].html
 
-VIEW 1 (Mirror 1):
-https://veilocity717-blip.github.io/Veilocity/Ark%20Zulu/Veilocity%20-%20Text%20Channels%20-%20zulu%20%5B1468679637071695893%5D.html
-VIEW 2 (Mirror 2):
-https://revelation610.github.io/Veilocity/Ark%20Zulu/Veilocity%20-%20Text%20Channels%20-%20zulu%20%5B1468679637071695893%5D.html
-VIEW 3 (Mirror 3):
-https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Zulu/Veilocity%20-%20Text%20Channels%20-%20zulu%20%5B1468679637071695893%5D.html
+VIEW 1 (Mirror 1): https://veilocity717-blip.github.io/Veilocity/Ark%20Zulu/Veilocity%20-%20Text%20Channels%20-%20zulu%20%5B1468679637071695893%5D.html
+
+VIEW 2 (Mirror 2): https://revelation610.github.io/Veilocity/Ark%20Zulu/Veilocity%20-%20Text%20Channels%20-%20zulu%20%5B1468679637071695893%5D.html
+
+VIEW 3 (Mirror 3): https://RealityOnAirplaneMode.github.io/Veilocity/Ark%20Zulu/Veilocity%20-%20Text%20Channels%20-%20zulu%20%5B1468679637071695893%5D.html
+
 
 ----------------------------------------------------------------------------------------------------
