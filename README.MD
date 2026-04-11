@@ -70,7 +70,6 @@ https://mega.nz/folder/AvRynZIK#7bbd_CTY355iCHK8cvPWrg
 MEGA Download #6
 https://mega.nz/folder/F3JzgApT#kLchzuG2Sh83Dl-6hvgegA
 
-====================================================================================================
 
 ## AFRIKAANS ##
 
