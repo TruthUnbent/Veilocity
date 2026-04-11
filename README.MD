@@ -70,12 +70,6 @@ https://mega.nz/folder/AvRynZIK#7bbd_CTY355iCHK8cvPWrg
 MEGA Download #6
 https://mega.nz/folder/F3JzgApT#kLchzuG2Sh83Dl-6hvgegA
 
-
-
-
-Local scan source: /mnt/VAULT/1_Testimony/1_Veilocity_Work/1_Veilocity/Veilocity
-HTML files found: 37
-
 ====================================================================================================
 
 ## AFRIKAANS ##
