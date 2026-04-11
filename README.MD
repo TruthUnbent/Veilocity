@@ -43,6 +43,9 @@ https://mega.nz/folder/OOwhUDbC#zR4K3iUMhj9Ml0van9xCTQ
 
 MEGA Download VOL 6
 https://mega.nz/folder/EqhjRZQD#REsKXwwW-UtJmTqSrX2EXg
+
+MEGA Download VOL 7
+https://mega.nz/folder/8zhCUbAb#CNPaxsmqwrBGiL6VTZm1Pg
 ######################################################################################
 ######################################################################################
 Epstein Files
