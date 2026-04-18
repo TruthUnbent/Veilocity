@@ -1525,8 +1525,9 @@ Bir &#231;oban &#246;zerkliği korur. Bir insan taciri ise &#246;zerkliğin kayb
 
 #RezonanstanKontrol #Ger&#231;ek&#214;nemlidir #ManeviAyırtEtme #ZorlayıcıKontrol #&#199;obanDeğilSahip
 
-<a href="https://vimeo.com/1184326308">https://vimeo.com/1184326308</a></span><span class=chatlog__edited-timestamp title="Saturday, 18 April 2026 12:25 PM">(edited)</span></div><div class=chatlog__attachment></div><div class=chatlog__attachment></div></div></div></div></div></div><div class=postamble><div class=postamble__entry>Exported 58 message(s)</div><div class=postamble__entry>Timezone: UTC+4</div></div>
-
+<a href="https://vimeo.com/1184326308">https://vimeo.com/1184326308</a></span><span class=chatlog__edited-timestamp title="Saturday, 18 April 2026 12:25 PM">(edited)</span></div><div class=chatlog__attachment></div><div class=chatlog__attachment></div></div></div></div></div></div><div class=postamble><div class=postamble__entry>Exported 58 message(s)</div><div class=postamble__entry>Timezone: UTC+4</div></div><script id="chatlog-date-sorter">
+document.addEventListener("DOMContentLoaded", () => {
+  const ALLOWED_DISCOR
 <script id="chatlog-date-sorter">
 document.addEventListener("DOMContentLoaded", () => {
   const ALLOWED_DISCORD_CDN_URL =
@@ -2253,7 +2254,8 @@ document.addEventListener("DOMContentLoaded", () => {
     .chatlog__attachment,
     .chatlog__embed,
     .chatlog__reference,
-    .pre--multiline {
+    .chatlog__markdown-pre--multiline,
+    .chatlog__markdown-pre {
       border-radius: 14px !important;
       border: 1px solid rgba(110, 88, 64, 0.14) !important;
       background: rgba(255, 246, 233, 0.85) !important;
@@ -2261,6 +2263,31 @@ document.addEventListener("DOMContentLoaded", () => {
       transition: none !important;
       transform: none !important;
       filter: none !important;
+    }
+
+    .chatlog__markdown-pre--multiline,
+    .chatlog__markdown-pre--multiline code,
+    .chatlog__markdown-pre,
+    .chatlog__markdown-pre code,
+    code.chatlog__markdown-pre,
+    code.chatlog__markdown-pre--multiline {
+      color: #000000 !important;
+      -webkit-text-fill-color: #000000 !important;
+      opacity: 1 !important;
+      text-shadow: none !important;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace !important;
+    }
+
+    .chatlog__markdown-pre--multiline .hljs,
+    .chatlog__markdown-pre--multiline .hljs *,
+    .chatlog__markdown-pre .hljs,
+    .chatlog__markdown-pre .hljs *,
+    .chatlog__markdown-pre--multiline.highlight,
+    .chatlog__markdown-pre--multiline.highlight * {
+      color: #000000 !important;
+      -webkit-text-fill-color: #000000 !important;
+      opacity: 1 !important;
+      text-shadow: none !important;
     }
 
     .media-row {
@@ -2836,7 +2863,8 @@ document.addEventListener("DOMContentLoaded", () => {
       background-color: transparent !important;
     }
 
-    .chatlog__message-group .pre--multiline,
+    .chatlog__message-group .chatlog__markdown-pre--multiline,
+    .chatlog__message-group .chatlog__markdown-pre,
     .chatlog__message-group .chatlog__attachment,
     .chatlog__message-group .chatlog__embed,
     .chatlog__message-group .chatlog__reference,

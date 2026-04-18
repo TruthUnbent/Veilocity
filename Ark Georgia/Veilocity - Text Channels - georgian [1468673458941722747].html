@@ -2661,7 +2661,8 @@ document.addEventListener("DOMContentLoaded", () => {
     .chatlog__attachment,
     .chatlog__embed,
     .chatlog__reference,
-    .pre--multiline {
+    .chatlog__markdown-pre--multiline,
+    .chatlog__markdown-pre {
       border-radius: 14px !important;
       border: 1px solid rgba(110, 88, 64, 0.14) !important;
       background: rgba(255, 246, 233, 0.85) !important;
@@ -2669,6 +2670,31 @@ document.addEventListener("DOMContentLoaded", () => {
       transition: none !important;
       transform: none !important;
       filter: none !important;
+    }
+
+    .chatlog__markdown-pre--multiline,
+    .chatlog__markdown-pre--multiline code,
+    .chatlog__markdown-pre,
+    .chatlog__markdown-pre code,
+    code.chatlog__markdown-pre,
+    code.chatlog__markdown-pre--multiline {
+      color: #000000 !important;
+      -webkit-text-fill-color: #000000 !important;
+      opacity: 1 !important;
+      text-shadow: none !important;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace !important;
+    }
+
+    .chatlog__markdown-pre--multiline .hljs,
+    .chatlog__markdown-pre--multiline .hljs *,
+    .chatlog__markdown-pre .hljs,
+    .chatlog__markdown-pre .hljs *,
+    .chatlog__markdown-pre--multiline.highlight,
+    .chatlog__markdown-pre--multiline.highlight * {
+      color: #000000 !important;
+      -webkit-text-fill-color: #000000 !important;
+      opacity: 1 !important;
+      text-shadow: none !important;
     }
 
     .media-row {
@@ -3244,7 +3270,8 @@ document.addEventListener("DOMContentLoaded", () => {
       background-color: transparent !important;
     }
 
-    .chatlog__message-group .pre--multiline,
+    .chatlog__message-group .chatlog__markdown-pre--multiline,
+    .chatlog__message-group .chatlog__markdown-pre,
     .chatlog__message-group .chatlog__attachment,
     .chatlog__message-group .chatlog__embed,
     .chatlog__message-group .chatlog__reference,
